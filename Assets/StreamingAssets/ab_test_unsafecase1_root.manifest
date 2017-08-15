@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 5832883
+CRC: 3330020863
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8a0e7a7b1270231e3c0a3a4b530b406e
+    Hash: a5f2858062a497eb8b014f1c75297f6f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 28ede7b3b13ce9d22db79f05f5966623
@@ -32,7 +32,7 @@ ClassTypes:
 - Class: 95
   Script: {instanceID: 0}
 Assets:
-- Assets/AssetBundle/Root/AnimatorController.controller
-- Assets/AssetBundle/Root/Root.prefab
+- Assets/AssetBundle/UnsafeCase1/Root/AnimatorController.controller
+- Assets/AssetBundle/UnsafeCase1/Root/Root.prefab
 Dependencies:
-- /Users/kuwabara_yuki/workspace/unity/AssetBundleAnimatorBugExhibition/Assets/StreamingAssets/ab_test_dependency
+- /Users/kuwabara_yuki/workspace/unity/AssetBundleAnimatorBugExhibition/Assets/StreamingAssets/ab_test_unsafecase1_deps

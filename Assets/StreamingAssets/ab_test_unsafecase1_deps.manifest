@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1215051990
+CRC: 609155376
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -12,5 +12,5 @@ ClassTypes:
 - Class: 74
   Script: {instanceID: 0}
 Assets:
-- Assets/AssetBundle/Dependency/AnimationClip.anim
+- Assets/AssetBundle/UnsafeCase1/Dependency/AnimationClip.anim
 Dependencies: []
