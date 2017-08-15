@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 5832883
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a0e7a7b1270231e3c0a3a4b530b406e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 28ede7b3b13ce9d22db79f05f5966623
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle/Root/AnimatorController.controller
+- Assets/AssetBundle/Root/Root.prefab
+Dependencies:
+- /Users/kuwabara_yuki/workspace/unity/AssetBundleAnimatorBugExhibition/Assets/StreamingAssets/ab_test_dependency

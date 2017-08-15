@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 3790206426
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ab_test_dependency
+      Dependencies: {}
+    Info_1:
+      Name: ab_test_root
+      Dependencies:
+        Dependency_0: ab_test_dependency
