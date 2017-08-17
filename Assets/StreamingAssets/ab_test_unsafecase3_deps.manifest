@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1328931302
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 811598f5adbddc96a16f8e96818e0ccb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 991d566415800c576fb4ba5a6c54c270
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle/UnsafeCase3/Dependency/AnimationClip.anim
+- Assets/AssetBundle/UnsafeCase3/Dependency/Material.mat
+Dependencies: []

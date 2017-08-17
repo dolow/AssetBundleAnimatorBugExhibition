@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3858224333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d84be3adc4db42b6c6875c64e7acf9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0f22c10476b8203b1e3dd75b7e6bf13c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle/UnsafeCase2/Root/Root.prefab
+Dependencies:
+- /Users/kuwabara_yuki/workspace/unity/AssetBundleAnimatorBugExhibition/Assets/StreamingAssets/ab_test_unsafecase2_deps

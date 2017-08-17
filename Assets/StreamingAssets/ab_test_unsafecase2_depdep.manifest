@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4284447860
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c544963dd547fc9e0f892f34edc434a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f83f8f92ace07d29cf518d0769d85c5
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle/UnsafeCase2/DepDep/DeleteedAnimationClip.anim
+Dependencies: []

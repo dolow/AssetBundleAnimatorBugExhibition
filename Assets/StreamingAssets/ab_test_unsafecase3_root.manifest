@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3605595088
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b062716a2e20aff3fb4aa840decf0784
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e26bcf883e99a1c2e8224b0875e7b2c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58926d060f54643da8e51c528ecc32cf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle/UnsafeCase3/Root/Root.prefab
+- Assets/AssetBundle/UnsafeCase3/Root/AinmationController.controller
+Dependencies:
+- /Users/kuwabara_yuki/workspace/unity/AssetBundleAnimatorBugExhibition/Assets/StreamingAssets/ab_test_unsafecase3_deps

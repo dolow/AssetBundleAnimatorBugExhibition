@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2157135177
+CRC: 4091808284
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -15,4 +15,22 @@ AssetBundleManifest:
       Dependencies: {}
     Info_3:
       Name: ab_test_safecase_deps
+      Dependencies: {}
+    Info_4:
+      Name: ab_test_unsafecase2_root
+      Dependencies:
+        Dependency_0: ab_test_unsafecase2_deps
+    Info_5:
+      Name: ab_test_unsafecase2_deps
+      Dependencies:
+        Dependency_0: ab_test_unsafecase2_depdep
+    Info_6:
+      Name: ab_test_unsafecase2_depdep
+      Dependencies: {}
+    Info_7:
+      Name: ab_test_unsafecase3_root
+      Dependencies:
+        Dependency_0: ab_test_unsafecase3_deps
+    Info_8:
+      Name: ab_test_unsafecase3_deps
       Dependencies: {}

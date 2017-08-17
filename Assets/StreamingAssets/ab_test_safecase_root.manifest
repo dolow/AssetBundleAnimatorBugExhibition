@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1952292685
+CRC: 414537224
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c8c2f3b9947e3830a437cfa7786db032
+    Hash: 846a7f1a8b2070cf3f4d09381df62ce3
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0f03da13550f9a116c0859a6f266f9e5
+    Hash: 5e26bcf883e99a1c2e8224b0875e7b2c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -28,6 +28,10 @@ ClassTypes:
 - Class: 91
   Script: {instanceID: 0}
 - Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 58926d060f54643da8e51c528ecc32cf, type: 3}
+- Class: 115
   Script: {instanceID: 0}
 Assets:
 - Assets/AssetBundle/SafeCase/Root/Root.prefab
